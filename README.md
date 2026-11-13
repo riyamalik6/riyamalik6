@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Riya Malik 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+Django+Developer;B.Tech+Student+at+LPU+(2026);Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software Engineer;Python+%7C+Django+Developer;B.Tech+Student+at+LPU+(2026);Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 ## 💫 About Me
 
 * 🎓 Started my **B.Tech** journey at **Lovely Professional University (LPU)** in **2026**
-* 💻 Passionate about **Web Development** and **Backend Development**
+* 💻 Passionate about **Web Development**,**Software development** and **Backend Development** 
 * 🌱 Currently expanding my knowledge in **Python, Django, APIs, and Full Stack Development**
 * 🚀 Love building real-world projects and continuously improving my skills
 * 🤝 Open to collaboration on interesting web development projects
