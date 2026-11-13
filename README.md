@@ -1,8 +1,5 @@
 <h1 align="center"> Hi there, I'm Riya Malik 👋 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software Engineer;Python+%7C+Django+Developer;B.Tech+Student+at+LPU+(2026);Always+Learning+New+Technologies" alt="Typing Animation" />
-</p>
 
 ## 💫 About Me
 
